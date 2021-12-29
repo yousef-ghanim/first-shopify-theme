@@ -277,9 +277,21 @@
         <div>
           <label for="custom-name">Your Name</label>
           <input type="text" id="custom-name" form="{{product_form_id}}" name="properties[Your Name]"/>
+        </div>
+        
+        <div>
+          <label for="custom-coating">Coating</label>
+          <select id="custom-coating" form="{{product_form_id}}" name="properties[Coating]">
+            <option value="Natural">Natural</option>
+            <option value="Mosaic">Mosaic</option>
+          </select>
           
         </div>
         
+        <div>
+          <label for="custom-name">Your Name</label>
+          <input type="text" id="custom-name" form="{{product_form_id}}" name="properties[Your Name]"/>
+        </div>
         
           {%- when 'buy_buttons' -%}
             <div {{ block.shopify_attributes }}>

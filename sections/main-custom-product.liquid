@@ -293,6 +293,11 @@
           <input type="checkbox" value="yes" id="custom-gift" form="{{product_form_id}}" name="properties[Wrap as a gift]"/>
         </div>
         
+        <div>
+          <label for="custom-file">Your Name</label>
+          <input type="file" id="custom-file" form="{{product_form_id}}" name="properties[Your Photo]"/>
+        </div>
+        
           {%- when 'buy_buttons' -%}
             <div {{ block.shopify_attributes }}>
               <product-form class="product-form">

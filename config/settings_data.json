@@ -11,10 +11,11 @@
     "gradient_background_1": "",
     "colors_background_2": "#ababab",
     "type_header_font": "americana_n4",
-    "heading_scale": 100,
-    "type_body_font": "quattrocento_sans_n4",
+    "heading_scale": 125,
+    "type_body_font": "sans-serif",
     "sale_badge_color_scheme": "accent-2",
     "accent_icons": "outline-button",
+    "favicon": "shopify:\/\/shop_images\/logo_transparent.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",

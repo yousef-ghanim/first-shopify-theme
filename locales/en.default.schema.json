@@ -825,6 +825,9 @@
         "image_overlay_opacity": {
           "label": "Image overlay opacity"
         },
+        "banner_box_opacity": {
+          "label": "Banner box opacity"
+        },
         "image_height": {
           "label": "Banner height",
           "options__1": {

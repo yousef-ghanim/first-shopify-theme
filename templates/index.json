@@ -27,12 +27,11 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/silver-lamp-on-a-white-table-next-to-books.jpg",
-        "image_2": "shopify:\/\/shop_images\/white-bowl-surrounded-by-herbs-chilis-and-lime-slices.jpg",
+        "image": "shopify:\/\/shop_images\/banner.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",

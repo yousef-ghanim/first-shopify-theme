@@ -24,7 +24,7 @@
             "type": "announcement",
             "settings": {
               "text": "Handmade Persian carpets",
-              "color_scheme": "background-1",
+              "color_scheme": "inverse",
               "link": ""
             }
           }
@@ -41,7 +41,7 @@
           "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/logo_transparent_551fd3e9-5ad8-43d4-9950-1dae950835e5.png",
           "logo_width": 180,
-          "logo_position": "top-center",
+          "logo_position": "middle-left",
           "menu": "main-menu",
           "show_line_separator": true,
           "enable_sticky_header": true

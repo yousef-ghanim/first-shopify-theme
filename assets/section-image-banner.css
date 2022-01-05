@@ -415,7 +415,7 @@
 }
   
  .banner__buttons:hover{
-   border: 4px solid #08292B;
+   border: 2px solid #08292B;
  }
 
 @media screen and (max-width: 749px) {

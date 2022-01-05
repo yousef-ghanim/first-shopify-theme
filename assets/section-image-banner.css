@@ -411,12 +411,8 @@
   word-break: break-word;
   /* changing banner button color    */
   background-color: #08292B;
-/*   background-color: var(--color-base-accent-1); */
 }
   
- .banner__buttons:hover{
-   border: 2px solid #08292B;
- }
 
 @media screen and (max-width: 749px) {
   .banner--content-align-mobile-right .banner__buttons--multiple {

@@ -414,8 +414,8 @@
 /*   background-color: var(--color-base-accent-1); */
 }
   
- .banner__buttons:hover{
-   border-color: #08292B;
+ .banner__buttons:focus{
+   border: 2px solid #08292B;
  }
 
 @media screen and (max-width: 749px) {

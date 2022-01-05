@@ -27,8 +27,9 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner.jpg",
-        "image_overlay_opacity": 20,
+        "image": "shopify:\/\/shop_images\/banner_half.jpg",
+        "image_overlay_opacity": 0,
+        "banner_box_opacity": 100,
         "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",

@@ -411,7 +411,7 @@
   word-break: break-word;
   /* changing banner button color    */
   /* background-color: #08292B; */
-  background-color: var(--color-base-background-1);
+  background-color: var(--color-base-solid-button-labels);
 }
 
 @media screen and (max-width: 749px) {

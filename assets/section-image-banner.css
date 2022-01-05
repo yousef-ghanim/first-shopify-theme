@@ -409,7 +409,9 @@
   gap: 1rem;
   max-width: 45rem;
   word-break: break-word;
+  /* changing banner button color    */
   background-color: #08292B;
+  border-color: #08292B;
 }
 
 @media screen and (max-width: 749px) {

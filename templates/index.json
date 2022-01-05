@@ -73,7 +73,7 @@
       ],
       "settings": {
         "color_scheme": "accent-1",
-        "full_width": true
+        "full_width": false
       }
     },
     "featured_products": {

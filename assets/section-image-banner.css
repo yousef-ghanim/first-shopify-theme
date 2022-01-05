@@ -413,6 +413,10 @@
   background-color: #08292B;
 /*   background-color: var(--color-base-accent-1); */
 }
+  
+ .banner__buttons:hover{
+   border-color: #08292B;
+ }
 
 @media screen and (max-width: 749px) {
   .banner--content-align-mobile-right .banner__buttons--multiple {

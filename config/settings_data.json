@@ -1,13 +1,13 @@
 {
   "current": {
-    "colors_solid_button_labels": "#000000",
-    "colors_accent_1": "#b1b0b0",
+    "colors_solid_button_labels": "#fff",
+    "colors_accent_1": "#025256",
     "gradient_accent_1": "",
-    "colors_accent_2": "#a15757",
+    "colors_accent_2": "#fff",
     "gradient_accent_2": "",
-    "colors_text": "#000000",
+    "colors_text": "#025256",
     "colors_outline_button_labels": "#529bcc",
-    "colors_background_1": "#a15757",
+    "colors_background_1": "#025256",
     "gradient_background_1": "",
     "colors_background_2": "#ababab",
     "type_header_font": "americana_n4",

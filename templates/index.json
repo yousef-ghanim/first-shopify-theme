@@ -56,24 +56,15 @@
           "settings": {
             "text": "<p>For centuries Persian carpets have been appreciated for their fine craftsmanship and high quality. These beautiful and unique handmade Persian rugs can be found in numerous shapes and sizes depending on where and who manufactured them. There are carpets for all tastes, from large carpets knotted in workshops to lively patterned village carpets and charming nomadic carpets.<\/p>"
           }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading",
-        "text",
-        "button"
+        "text"
       ],
       "settings": {
         "color_scheme": "accent-1",
-        "full_width": false
+        "full_width": true
       }
     },
     "featured_products": {

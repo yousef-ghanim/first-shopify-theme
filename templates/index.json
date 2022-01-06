@@ -112,7 +112,7 @@
         "cover_image": "shopify:\/\/shop_images\/videothumb.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=-ECqbfX0IUA",
         "description": "",
-        "full_width": true
+        "full_width": false
       }
     },
     "multi_column": {

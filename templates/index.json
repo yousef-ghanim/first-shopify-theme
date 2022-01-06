@@ -141,10 +141,11 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/Thirdarticle.jpg",
+            "title": "PERSIAN RUGS AND CARPETS: HOW TO RECOGNIZE THE GENUINE ARTICLE?",
+            "text": "<p>Since time immemorial Persian rugs and carpets have adorned the most elegant floors. No wedding list that is well thought out does not include one or two Persian carpets<\/p>",
+            "link_label": "Read more",
+            "link": "https:\/\/marylandreporter.com\/2020\/10\/01\/persian-rugs-and-carpets-how-to-recognize-the-genuine-article\/"
           }
         }
       },

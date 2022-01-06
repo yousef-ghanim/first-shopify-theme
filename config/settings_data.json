@@ -16,6 +16,12 @@
     "sale_badge_color_scheme": "accent-2",
     "accent_icons": "outline-button",
     "favicon": "shopify:\/\/shop_images\/logo_transparent.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo_transparent_d736a86a-d473-4736-a1e5-79a6295be45f.png",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_accent_color": "#08292b",
+    "checkout_button_color": "#08292b",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",

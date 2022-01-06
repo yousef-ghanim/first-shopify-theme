@@ -47,7 +47,7 @@
           </div>
 
         {%- when 'product'-%}
-          <div style="boarder: none;" class="collage-card collage-product card-wrapper{% if focus_card_left %} collage-card--left{% elsif focus_card_right %} collage-card--right{% endif %}">
+          <div style="border: none;" class="collage-card collage-product card-wrapper{% if focus_card_left %} collage-card--left{% elsif focus_card_right %} collage-card--right{% endif %}">
             {%- if block.settings.product != blank -%}
               {%- assign featured_media = block.settings.product.selected_or_first_available_variant.featured_media | default: block.settings.product.featured_media -%}
               <div class="collage-content card{% if block.settings.secondary_background %} card-colored color-background-1{% endif %}{% if block.settings.image_padding %} collage-card-spacing{% endif %}" {{ block.shopify_attributes }}>

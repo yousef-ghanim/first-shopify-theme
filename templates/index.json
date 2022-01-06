@@ -121,10 +121,11 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/banner.jpg",
+            "title": "The timeless appeal of the Persian rug",
+            "text": "<p>From contemporary art to fashion and even music, the symbolism of the famous Persian rug pervades in many of aspects of modern life beyond interior decoration, says Joobin Bekhrad.<\/p>",
+            "link_label": "Read more",
+            "link": "https:\/\/www.bbc.com\/culture\/article\/20171206-the-timeless-appeal-of-the-persian-rug"
           }
         },
         "column2": {

@@ -88,8 +88,3 @@
   }
 }
 
-/* hide price */
-
-.template-index .product-info .price > span {
- display:none
-}

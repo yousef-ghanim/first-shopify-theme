@@ -95,18 +95,19 @@
             "secondary_background": false
           }
         },
-        "collection": {
-          "type": "collection",
+        "f13651cb-9a03-4ae9-86bf-0d635f725db5": {
+          "type": "product",
           "settings": {
-            "collection": "",
+            "product": "nain",
+            "second_image": false,
             "image_padding": false,
-            "color_scheme": "background-1"
+            "secondary_background": false
           }
         }
       },
       "block_order": [
         "product",
-        "collection"
+        "f13651cb-9a03-4ae9-86bf-0d635f725db5"
       ],
       "settings": {
         "heading": "Multimedia collage",
@@ -118,9 +119,10 @@
       "type": "video",
       "settings": {
         "heading": "Video",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify:\/\/shop_images\/banner.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=-ECqbfX0IUA",
         "description": "",
-        "full_width": false
+        "full_width": true
       }
     },
     "multi_column": {

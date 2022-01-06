@@ -86,40 +86,30 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "sarouk",
-            "second_image": false,
-            "image_padding": true,
-            "secondary_background": false
-          }
-        },
         "f13651cb-9a03-4ae9-86bf-0d635f725db5": {
           "type": "product",
           "settings": {
             "product": "nain",
             "second_image": false,
-            "image_padding": false,
+            "image_padding": true,
             "secondary_background": false
           }
         }
       },
       "block_order": [
-        "product",
         "f13651cb-9a03-4ae9-86bf-0d635f725db5"
       ],
       "settings": {
-        "heading": "Multimedia collage",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
+        "heading": "",
+        "desktop_layout": "right",
+        "mobile_layout": "column"
       }
     },
     "video": {
       "type": "video",
       "settings": {
-        "heading": "Video",
-        "cover_image": "shopify:\/\/shop_images\/banner.jpg",
+        "heading": "How Persian rugs are made?",
+        "cover_image": "shopify:\/\/shop_images\/videothumb.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=-ECqbfX0IUA",
         "description": "",
         "full_width": true

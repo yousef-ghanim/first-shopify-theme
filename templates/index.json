@@ -131,10 +131,11 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/culturecarpet.jpg",
+            "title": "A Brief History of Persian Rugs",
+            "text": "<p>The process of creating a Persian rug starts with the grazing of sheep. Persian rugs are traditionally spun from sheep’s wool, the quality of which varies depending on the breed of sheep, climate, pasturage, and time of shearing.<\/p>",
+            "link_label": "Read more",
+            "link": "https:\/\/theculturetrip.com\/middle-east\/iran\/articles\/a-brief-history-of-persian-rugs-in-iran\/"
           }
         },
         "column3": {

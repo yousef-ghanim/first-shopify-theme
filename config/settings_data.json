@@ -15,7 +15,7 @@
     "type_body_font": "sans-serif",
     "sale_badge_color_scheme": "accent-2",
     "accent_icons": "outline-button",
-    "social_facebook_link": "https:\/\/www.facebook.com\/yusufghanem\/",
+    "social_facebook_link": "",
     "favicon": "shopify:\/\/shop_images\/logo_transparent.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/logo_transparent_d736a86a-d473-4736-a1e5-79a6295be45f.png",
     "checkout_logo_size": "medium",
@@ -80,7 +80,7 @@
           "color_scheme": "accent-1",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
-          "show_social": true,
+          "show_social": false,
           "enable_country_selector": true,
           "enable_language_selector": true,
           "payment_enable": true
